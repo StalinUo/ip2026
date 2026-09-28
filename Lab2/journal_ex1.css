@@ -1,0 +1,44 @@
+/* 28.09.2026 орошая погода*/
+body {
+	background-image: url("background.gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#conteiner {
+	background-color: white;
+	border: 10px white solid;
+}
+
+#header {
+	background-color: #A8F0F0;
+	
+	
+}
+
+.entry {
+	
+	padding: 5px;
+	background-color: #E8FBFB
+	border: 4px #C2E9E9 solid;
+	border-radius: 15px;
+	margin-top: 10px; 
+	text-align: justify;
+}
+
+.entry img {
+	float: right;
+}
+
+#header h2 {
+	font-size: 14pt;
+}
+
+.date {
+	border-bottom-style: dashed;
+	border-bottom-width: 2px;
+}
+
+.spacer {
+	clear: right;
+}
